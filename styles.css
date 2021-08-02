@@ -1,0 +1,23 @@
+.body{
+  background-color: #CD113B;
+}
+.H1{
+  font-size: 100px;
+}
+.container{
+  padding-top: 20px;
+  text-align: center;
+
+}
+.row{
+  text-align: center;
+  padding-top: 50px;
+}
+.diceimg{
+   padding-top: 100px;
+}
+.btn{
+  height: 50px;
+  width: 150px;
+  /* color: white; */
+}
